@@ -70,4 +70,4 @@ def main(track1, track2):
         print("El estado de salida del proceso es desconocido.")
 
 if __name__ == "__main__":
-    main("Pistas//HellsParadise.mp3", "Pistas//Hades.mp3")
+    main("Pistas//FromOlympus.mp3", "Pistas//Hades.mp3")
